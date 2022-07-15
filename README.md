@@ -2,7 +2,7 @@
 
 各种基于`vite`的开箱即用的模板
 
-## Feature
+## Features
 
 - 🦄 vite-plugin-template
 
